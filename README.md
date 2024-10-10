@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **JrThe128th/JrThe128th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... HERE.
 - 😄 Pronouns: ... He him
 - ⚡ Fun fact: ... The game will never be finished.
--->
+
